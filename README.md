@@ -1,6 +1,7 @@
 # AdShift
 AdShift aims to identify bias in advertising models and diversify their audience targeting strategies to combat such bias. This project was developed in collaboration between students in the Data-X course at UC Berkeley and mentors from Kinesso of Interpublic Group.
 We are a team of six UC Berkeley students with various backgrounds and majors. Our team consists of Wei Huang (Materials Science and Engineering), Fernanda Ramos (Data Science), Shaya Barry (Operations Research and Management Sciences), Sneha Sudhakar (Data Science), Zichen Zhao (Economics and Data Science), and Dillon Eskandar (Electrical Engineering and Computer Sciences). In addition, with a diverse list of interdisciplinary experiences including working at a startup, developing API, wrangling with large data sets, research experiences, and so on, we are a well-rounded team who is capable of both qualitative and quantitative projects and has expertise in both the business and technical sides of our work. 
+
 Contact Details:
 Wei Huang wei_huang@berkeley.edu
 Fernanda Ramos framos0421@berkeley.edu  

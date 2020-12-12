@@ -5,10 +5,15 @@ We are a team of six UC Berkeley students with various backgrounds and majors. O
 Contact Details:
 
 Wei Huang wei_huang@berkeley.edu
+
 Fernanda Ramos framos0421@berkeley.edu  
+
 Shaya Barry shayabarry@berkeley.edu
+
 Sneha Sudhakar sneha_sudhakar@berkeley.edu
+
 Dillon Eskandar dilloneskandar@berkeley.edu
+
 Zichen Zhao zzc@berkeley.edu
 
 To see news release, please click https://docs.google.com/document/d/11oAe92MfQf1QLMI53FijlpCIBYl6FN3c4cNJ-P6qNhw/edit
